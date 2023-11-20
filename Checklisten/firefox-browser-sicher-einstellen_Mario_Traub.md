@@ -1,0 +1,27 @@
+# Checklisten des Datenschutzbeauftragten des Kantons Zürichs
+## Firefox-Browser richtig einstellen
+- Link: https://www.datenschutz.ch/meine-daten-schuetzen/firefox-browser-sicher-einstellen
+- Download-Manager bei Downloads anzeigen lassen
+  -  Nein, ich habe den Download-Manager bei Downloads nicht aktiviert, weil heruntergeladene Daten standardmässig im Downloads-Ordner gespeichert werden. Ich sollte es aber wahrscheinlich ändern.
+- Automatische Updates aktivieren
+  - Ja, ich habe automatische Updates aktiviert.
+- Firefox-Startbildschirm konfigurieren
+  - Teilweise, ich habe alles ausser neuste Aktivität deaktiviert. Ich brauche die neuste Aktivität eigentlich nicht, also könnte ich sie deaktivieren.
+- Suchvorschläge deaktivieren
+  - Nein, ich habe sie aktiviert. Ich benötige sie sehr oft um bestimmte Dinge einfacher und schneller zu finden.
+- Vor Aktivitätsverfolgung schützen
+  - Ich habe die Einstellung nur auf standard und nicht auf Streng gestellt, weil sonst einige Webseiten nicht mehr richtig funktionieren könnten. Den Rest habe ich aktiviert.
+- Speichern von Cookies konfigurieren
+  - Nein, ich benutze die Funktion nicht, weil ich mich sonst bei jeder Webseite immer neu anmelden müsste.
+- Passwörter speichern
+  - Nein, ich benutze es nicht, weil ich bereits 1Password benutze, da dies von meinem Betrieb vorgegeben wird.
+- Einstellungen zum Anlegen der Chronik anpassen
+  - Nein, ich habe es nicht aktiviert, weil ich manchmal Dinge in meiner Chronik suchen muss.
+- Berechtigungen überprüfen
+  - Ja, ich habe es so eingestellt.
+- Datenübermittlung deaktivieren
+  - Ich habe es deaktiviert.
+- Java Plugin deaktivieren
+  - Ich habe kein Java-Plugin.
+- Firefox mit datenschutzfreundlichen Add-Ons erweitern
+  - Ich habe nur Add-Ons die ich wirklich brauche oder die datenschutzfreundlich sind.
