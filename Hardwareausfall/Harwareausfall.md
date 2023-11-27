@@ -1,0 +1,46 @@
+# Hardwareausfall Laptop und Handy
+- **Zugriff auf Daten**
+    - Handy: → Die wichtigsten Daten sind auf Icloud
+    - Laptop: → Projekte auf GitHub/Stash, E-Mail, Chats und Accounts bleiben, einige Dateien weg
+- **Wie komme ich an Daten**
+  - Meistens Cloud oder firmeninterne Server
+- **Ohne Handy an Laptop**
+  - 2fa → auch über Telefonnummer/1Password oder lässt sich zurücksetzten
+- **Wo habe ich meine Passwörter gespeichert?
+  - 1Password, Icloud, Github Tokens lokal gespeichert können aber zurückgesetzt werden mit Passwort
+- **Finder**
+  - Handy
+    - *Mit Passwort → voller Zugriff*
+    - *Ohne Passwort → Kamera (nicht Fotos), Taschenlampe, usw.*
+  - Laptop
+    - *Mit Passwort → fast voller Zugriff (Alles ohne 2fa z.B. Chat, Dateien auf meinen Computer)* 
+- **Finder Schaden**
+  - Handy
+    - *Könnte meine Daten/Fotos klauen und auf Twint, Apple Pay, Kredit- und Debitkarten zugreifen*
+  - Laptop
+    - *Könnte eingeschränkt (Lernende haben keinen Zugriff auf alle Informationen) auf nicht öffentliche Informationen meiner Firma zugreifen und auf 1Password → Alle meine Accounts*
+- **Fernlöschung**
+  - Mein Handy kann wahrscheinlich nicht fern gelöscht werden. Mein Laptop kann vielleicht von meiner Firma fern gelöscht werden.
+- **Geräte Orten**
+  - Mein Handy kann geortet werden, bei meinem Laptop bin ich mir nicht sicher
+- **Wogegen sind meine Backups gesichert**
+  - Sie befinden sich auf Clouds 
+- **Zeitaufwand**
+  - Der Zeitaufwand wäre nicht sehr gross für die wichtigsten Dinge (ca. 1 Tag)
+- **Konsequenz**
+  - Ich schaue, ob ich mein Handy fernlöschen könnte
+- **Beurteilung**
+  - Ich wusste nicht was ein Finder ist → hat also geholfen
+- **Versicherung**
+  - Mein Handy ist nicht versichert 
+  - Laptop ist über meine Firma versichert
+- **Was muss gesperrt werden?**
+  - Handy
+    - *Apple Pay*
+    - *Twint accounts*
+    - *Apps von Banken*
+    - *Kredit- und Debitkarten*
+  - Laptop
+    - *Accounts von Arbeit*
+    - *1Password*
+    - *Github*
