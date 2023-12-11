@@ -6,7 +6,7 @@
 ## 2. Warum werden seit einiger Zeit solche Banner angezeigt? Seit wann? Ist das nur auf Schweizer Websites der Fall?
 - Um Datenschutzgesetzte zu befolgen
 - Mai 2018
-- Nein nicht nur in der Schweiz
+- Nein, nicht nur in der Schweiz
 ## 3. Was sind Cookies?  Welche Arten von Cookies werden unterschieden? Wo kann man diese im Browser anschauen?  Braucht es Cookies?  Welche Ziele haben die Besitzer der Webseiten?  Was möchten Sie erreichen?  Warum?
 - Cookies sind kleine Textdateien, die Informationen über Website-Interaktionen speichern.
 - Es gibt Sitzungs- und dauerhafte Cookies, Erst- und Drittanbieter-Cookies. 
