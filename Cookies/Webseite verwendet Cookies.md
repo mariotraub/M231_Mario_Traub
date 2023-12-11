@@ -11,7 +11,8 @@
 - Cookies sind kleine Textdateien, die Informationen über Website-Interaktionen speichern.
 - Es gibt Sitzungs- und dauerhafte Cookies, Erst- und Drittanbieter-Cookies. 
 - Sie können im Browser in den Datenschutz- oder Sicherheitseinstellungen angesehen werden.
-- Cookies sind nützlich, aber nicht unbedingt erforderlich. 
+- Cookies sind nützlich, aber nicht unbedingt erforderlich.
+- Drittanbieter-Cookies erfassen Daten über das Nutzerverhalten, um gezieltere Werbung zu schalten und die Benutzererfahrung zu personalisieren. Ihre Verwendung kann Datenschutzbedenken hervorrufen, da durch sie viele persönliche Daten über User gesammelt werden.
 - Website-Besitzer verwenden sie, um Benutzerinformationen zu sammeln und ihre Seiten anzupassen.
 ## 4. Was haben diese Banner mit “Datenschutz” zu tun?  Worum geht es beim Datenschutz? Was sind “persönliche Daten”?  Welche Reaktion auf die Banner würden Sie BenutzerInnen empfehlen?  Sollen bspw. immer alle akzeptiert werden?
 - Diese Banner informieren über Datenschutzrichtlinien und die Verwendung von Cookies auf Websites, um die Privatsphäre zu bewahren.
