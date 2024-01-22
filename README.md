@@ -8,7 +8,7 @@
 - ## Hardwareausfall
 	- [Hardwareausfall](Hardwareausfall/Hardwareausfall.md)
 - ## Lizenzen
-	-  [Lizenzen](Lizenzen/Lizenzen.md)x
+	-  [Lizenzen](Lizenzen/Lizenzen.md)
 - ## Passwörter und Backups
 	- [Backups](Passwörter_und_Backups/Backups.md)
 	- [Passwörter](Passwörter_und_Backups/Passwörter)
