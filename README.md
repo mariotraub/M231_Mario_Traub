@@ -8,10 +8,13 @@
 - ## Hardwareausfall
 	- [Hardwareausfall](Hardwareausfall/Hardwareausfall.md)
 - ## Lizenzen
-	-  [Lizenzen](Lizenzen/Lizenzen.md)
+	-  [Lizenzen](Lizenzen/Lizenzen.md)x
 - ## Passwörter und Backups
 	- [Backups](Passwörter_und_Backups/Backups.md)
 	- [Passwörter](Passwörter_und_Backups/Passwörter)
+- ## Vertiefung
+	- [Cookies](Vertiefung/Vertiefung_Cookies)
+	- [Auskunftsrecht](Vertiefung/Vertiefung_Auskunftsrecht)
 
 ### Autor: Mario Traub
-### Datum 15.01.2024
+### Datum 22.01.2024
